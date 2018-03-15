@@ -1,1 +1,4 @@
-# static-jekyll
+example
+=======
+
+Jekyll example Project site
